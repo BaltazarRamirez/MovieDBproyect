@@ -1,0 +1,19 @@
+{
+  "name": "moviedbproyect",
+  "version": "1.0.0",
+  "description": "Proyecto de creacion de una pagina web para vizualizar peliculas.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaltazarRamirez/MovieDBproyect.git"
+  },
+  "author": "Baltazar Ramirez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BaltazarRamirez/MovieDBproyect/issues"
+  },
+  "homepage": "https://github.com/BaltazarRamirez/MovieDBproyect#readme"
+}
