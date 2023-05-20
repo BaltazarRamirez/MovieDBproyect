@@ -1,0 +1,3 @@
+Navegacion entre paginas
+https://developer.mozilla.org/es/docs/Web/API/Location
+https://developer.mozilla.org/es/docs/conflicting/Web/API/Window/hashchange_event
